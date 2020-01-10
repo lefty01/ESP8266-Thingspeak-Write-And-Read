@@ -3,7 +3,7 @@
 
 //Replace your wifi credentials here
 const char* ssid     = "SSID";  //Replace with your Wifi Name
-const char* password = "PASSWORD;   // Replace with your wifi Password
+const char* password = "PASSWORD";   // Replace with your wifi Password
 
 //change your channel number here
 unsigned long channel =742359;  //Replace with your own ThingSpeak Account Channle ID
